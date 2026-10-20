@@ -1,0 +1,26 @@
+.hero{
+    background-color: rgba(155, 155, 243, 0.267);
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+.carter-one-regular {
+  font-family: "Carter One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.plaster-regular {
+  font-family: "Plaster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
